@@ -1,4 +1,5 @@
-- 👋 Hi, I’m Abu Yousuf
+<h1 align="center"> 👋 Hi, I’m Abu Yousuf </h1>
+
 - 👀 I’m interested in Mobile(Android) development, Backend development
 - 🌱 I’m currently learning Spring Framework
 <!--- - 💞️ I’m looking to collaborate on. ---> 
